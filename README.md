@@ -7,7 +7,7 @@ You can view my presentation slide [here](https://docs.google.com/presentation/d
 
 ### Gallery
 ![image](https://github.com/riven314/WGAN-GP_Presentation/blob/master/gif/wgangp_data_evolution.gif)
-
+![image](https://github.com/riven314/WGAN-GP_Presentation/blob/master/gif/wgangp_loss_evolution.gif)
 
 ### Dependencies
 1. tensorflow==1.5.0
