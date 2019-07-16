@@ -19,6 +19,6 @@ Materials for my presentation on 17/07/2019 in Hong Kong Machine Learning Meetup
 
 ### Acknowledgement
 Part of the code is borrowed from the following
-1. "[vanilla_gan](https://github.com/wiseodd/generative-models/tree/master/GAN/vanilla_gan)"
-2. "[improved_wasserstein_gan](https://github.com/wiseodd/generative-models/blob/master/GAN/improved_wasserstein_gan/wgan_gp_tensorflow.py)"
-3. "[basic-gans](https://github.com/aadilh/blogs/tree/new/basic-gans)"
+1. [vanilla_gan](https://github.com/wiseodd/generative-models/tree/master/GAN/vanilla_gan)
+2. [improved_wasserstein_gan](https://github.com/wiseodd/generative-models/blob/master/GAN/improved_wasserstein_gan/wgan_gp_tensorflow.py)
+3. [basic-gans](https://github.com/aadilh/blogs/tree/new/basic-gans)
